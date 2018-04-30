@@ -13,8 +13,8 @@ cp autoload_configs/ai.xml /usr/local/freeswitch/conf/configuration/.
 
 ## Interface
 
-Http Method: POST
-Content-Type: application/json
+Http Method: POST,
+Content-Type: application/json,
 Body = action + next + variables + private_data
 
 ```
