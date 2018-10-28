@@ -1,3 +1,9 @@
+cat logs.tar.bz2.a* | tar xj
+
+https://blog.csdn.net/liuhaomatou/article/details/46917243
+
+
+
 dev branch
 # 配置
 - xswitch   ip地址 192.168.2.129
